@@ -1,0 +1,8 @@
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\obj\Debug\Sympraxis.Plugins.TestPlugin.Resources.resources
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\obj\Debug\Sympraxis.Plugins.TestPlugin.vbproj.GenerateResource.Cache
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\bin\Debug\Sympraxis.Plugins.TestPlugin.dll
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\bin\Debug\Sympraxis.Plugins.TestPlugin.pdb
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\bin\Debug\Sympraxis.Plugins.TestPlugin.xml
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\obj\Debug\Sympraxis.Plugins.TestPlugin.dll
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\obj\Debug\Sympraxis.Plugins.TestPlugin.xml
+E:\SympraxisWorkflow\TestRepository\Sympraxis.Plugins.TestPlugin\Sympraxis.Plugins.TestPlugin\obj\Debug\Sympraxis.Plugins.TestPlugin.pdb
